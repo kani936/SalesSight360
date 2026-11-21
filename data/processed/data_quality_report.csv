@@ -1,0 +1,8 @@
+dataset,total_records,total_columns,missing_values,duplicate_rows,duplicate_primary_keys
+sales_reps,30,5,0,0,0
+products,20,4,0,0,0
+crm_leads,5000,9,0,0,0
+orders,1433,11,0,0,0
+payments,2186,5,0,0,0
+sales_targets,220,4,0,0,Not applicable
+lead_stage_history,20928,4,0,0,0

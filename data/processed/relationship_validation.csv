@@ -1,0 +1,8 @@
+relationship,invalid_records
+crm_leads.rep_id -> sales_reps.rep_id,0
+crm_leads.product_id -> products.product_id,0
+orders.lead_id -> crm_leads.lead_id,0
+orders.rep_id -> sales_reps.rep_id,0
+orders.product_id -> products.product_id,0
+payments.order_id -> orders.order_id,0
+lead_stage_history.lead_id -> crm_leads.lead_id,0

@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+PROD001,Product 1,Electronics,23622
+PROD002,Product 2,Software,12907
+PROD003,Product 3,Furniture,6422
+PROD004,Product 4,Accessories,28620
+PROD005,Product 5,Electronics,44618
+PROD006,Product 6,Software,5063
+PROD007,Product 7,Furniture,43197
+PROD008,Product 8,Accessories,41726
+PROD009,Product 9,Electronics,15284
+PROD010,Product 10,Software,32319
+PROD011,Product 11,Furniture,9930
+PROD012,Product 12,Accessories,38388
+PROD013,Product 13,Electronics,35625
+PROD014,Product 14,Software,19017
+PROD015,Product 15,Furniture,5260
+PROD016,Product 16,Accessories,48593
+PROD017,Product 17,Electronics,23392
+PROD018,Product 18,Software,44869
+PROD019,Product 19,Furniture,34540
+PROD020,Product 20,Accessories,39362
